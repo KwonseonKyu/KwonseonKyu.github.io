@@ -1,1 +1,1 @@
-# KwonseonKyu.github.io
+Hello World! This is homepage of Seon-Kyu Kwon 
